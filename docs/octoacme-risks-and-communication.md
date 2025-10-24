@@ -21,8 +21,9 @@ Maintain a simple table with:
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
-- Provide regular updates (weekly or milestone-based)
+- Provide regular updates (weekly or milestone-based) — coordinated by Stakeholder Liaison
 - Use a single source of truth (project README or release doc) for status
+- Stakeholder Liaison ensures consistent messaging and manages stakeholder expectations
 
 ## Communication Templates
 Weekly Status Template:

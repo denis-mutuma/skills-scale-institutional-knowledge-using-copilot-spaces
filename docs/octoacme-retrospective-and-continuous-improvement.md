@@ -20,6 +20,7 @@ After each sprint, release, or important milestone. Also after incidents.
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
 - Review outstanding actions in the weekly PM sync
+- Knowledge Manager documents lessons learned and ensures they are accessible for future reference
 
 ## Example Action Item Template
 - Title:
