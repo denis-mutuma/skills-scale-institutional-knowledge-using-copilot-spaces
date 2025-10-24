@@ -22,6 +22,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- QA Lead defines testing strategy and coordinates quality gates
+- Test coverage and quality metrics tracked and reviewed regularly
 
 ## Reporting & Metrics
 - Track velocity and burndown
